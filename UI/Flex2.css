@@ -1,0 +1,22 @@
+.parent{
+    width:100%;
+    height:auto;
+    background-color: gray;
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-between; */
+    align-items: flex-start;
+    flex-wrap: wrap;
+    column-gap: 6.5%;
+    row-gap: 30px;
+    padding: 50px;
+    box-sizing: border-box;
+    
+}
+.child1
+{
+    width: 20%;
+    height: 200px;
+    background-color: blueviolet;
+
+}
